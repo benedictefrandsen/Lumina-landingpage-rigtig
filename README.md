@@ -1,2 +1,2 @@
 # Lumina-landingpage rigtig
-Lumina Landingpage
+Dette er min forbedret Lumina Landingpage. 
